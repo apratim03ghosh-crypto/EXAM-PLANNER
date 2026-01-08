@@ -303,3 +303,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = ExamPlannerUI(root)
     root.mainloop()
+
